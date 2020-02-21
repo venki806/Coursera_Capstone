@@ -1,2 +1,0 @@
-Data Section:
-   We need to get the neighborhoods of the city Bangalore. Sign up into the foursquare api account. Get the credentials and secret of the developer api account in foursquare. Using the foursquare api, get the latitude and longitudes of all the neighborhoods of Bangalore. A request has to be send to foursquare. Results are in the format of json. Observing the format of the data, required information need to be extracted. Then we need to analyze the data finally use clustering algorithm for segmentation.  
