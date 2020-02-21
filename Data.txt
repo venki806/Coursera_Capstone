@@ -1,1 +1,0 @@
-To explore the neighborhoods of Bangalore we need the gegraphical detals of the city. After that we will get the detalis of all neighborhoods using foursquare api.
